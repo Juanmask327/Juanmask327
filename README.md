@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola 👋
 Estudiante de Ingeniería de Software (4.º semestre) en Uniempresarial · Bogotá
 **Automatizador de procesos & Analista de datos**
 
